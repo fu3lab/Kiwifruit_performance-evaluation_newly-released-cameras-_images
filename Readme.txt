@@ -1,9 +1,7 @@
 Contact email: fulsh@nwafu.edu.cn, longsheng.fu@wsu.edu
 
-
 # Original images
 This folder contains 240 original images captured by Azure Kinect, RealSense D435, and ZED 2i, 80 images per camera, and the images naming format is from 000001 to 000080. 
-
 
 # Augmented images
 
